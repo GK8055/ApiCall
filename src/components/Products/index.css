@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.product_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.product_image_size {
+  height: 120px;
+  width: 100px;
+}
+.content {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+  margin: 10px;
+}
